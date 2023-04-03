@@ -4,8 +4,8 @@ Sou desenvolvedor de soluções em nuvem com foco nas tecnologias Angular, ASP.N
 
 Trabalho com desenvolvimento desde 2012, durante esse tempo trabalhei com diversos tipos de projetos e tecnologias absorvi o máximo que pude de cada experiência. 
 
-- 💼 Atualmente trabalhando na [Lyncas](https://lyncas.net/).
-- 🔭 Estudando arquitetura limpa de Robert C. Martin e o idioma inglês.
+- 💼 Atualmente trabalhando na [Aegro](https://aegro.com.br/).
+- 🔭 Estudando...
 - 📕 Desenvolvendo o app [Mais Café](http://maiscafe.com.br/) para ajudar os cafeicultores e como hobby.
 - ⚽️ Domingo batendo aquele futebol de campo na parte da tarde.
 
