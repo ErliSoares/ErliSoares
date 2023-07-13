@@ -1,11 +1,11 @@
 ### Olá, bem-vindo 👋
 
-Sou desenvolvedor de soluções em nuvem com foco nas tecnologias Angular, ASP.Net Core e um pouco Flutter.
+Sou desenvolvedor de soluções em nuvem atualmente nas tecnologias Java e Angular e com experiência em ASP.Net Core e Flutter.
 
 Trabalho com desenvolvimento desde 2012, durante esse tempo trabalhei com diversos tipos de projetos e tecnologias absorvi o máximo que pude de cada experiência. 
 
 - 💼 Atualmente trabalhando na [Aegro](https://aegro.com.br/).
-- 🔭 Estudando...
+- 🔭 Estudando inglês e arquitetura de sofware voltado a ERPs.
 - 📕 Desenvolvendo o app [Mais Café](http://maiscafe.com.br/) para ajudar os cafeicultores e como hobby.
 - ⚽️ Domingo batendo aquele futebol de campo na parte da tarde.
 
@@ -29,27 +29,21 @@ Trabalho com desenvolvimento desde 2012, durante esse tempo trabalhei com divers
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="35" src="https://yt3.ggpht.com/ytc/AKedOLRt1d4p7bPylasq_66BIC8-k3hkyVjJ2JICQITK=s900-c-k-c0x00ffffff-no-rj"></code>
 ---
-Além das tecnologias acima esbarrei com outras em minha carreira como VB6, Crystal Reports, Task Reports, Dart, Flutter, DevExtreme JS, API Rest, CI/CD, Blender VSE, WPF e PHP.
+Além das tecnologias acima esbarrei com outras em minha carreira como VB6, Crystal Reports, Task Reports, DevExtreme JS, API Rest, CI/CD, Blender VSE, WPF e PHP.
 
 ### 📈 Estatísticas do GitHub
 
 <a href="https://github.com/ErliSoares/ErliSoares">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErliSoares&hide=python,html,visual basic&langs_count=2&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErliSoares&hide=python,html,visual%20basic&langs_count=2&count_private=true" />
 </a>
 <a href="https://github.com/ErliSoares/ErliSoares">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErliSoares&show_icons=true&line_height=27&count_private=true" alt="Estatísticas do Meu GitHub" />
 </a>
 
   ---
-  *Nota: Os principais idiomas não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais idiomas eu tenho mais código no github a maioria dos meus códigos desenvolvidos não estão no github.*
+  *Nota: Os principais idiomas não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais idiomas tenho mais códigos no github, a maioria dos meus códigos desenvolvidos são para empresas privadas e não contabilizando na métrica.*
 
   ---
-  
-<a href="https://github.com/ErliSoares/api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErliSoares&repo=api" />
-</a>
-
----
 
 <p align="center"> 
   Total de Visitantes<br>
